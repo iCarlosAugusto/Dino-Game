@@ -1,2 +1,2 @@
 # Dino-Game
-It's a game based on google's game T-Rex Game
+It's a basic game based on google's game T-Rex Game 🎮💻
